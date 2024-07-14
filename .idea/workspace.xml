@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8975209f-478d-4251-b4a5-86c0af62b54e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-academy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/pom-ubuntu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/MyAcademyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/contollers/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/contollers/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/contollers/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/contollers/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/contollers/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/contollers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/models/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/models/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/models/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/models/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/models/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/models/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/models/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/models/WishList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/repository/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/repository/ContactRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/services/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/services/CartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/services/ContactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/services/ContactServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/services/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/services/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/services/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/services/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/java/com/staffs/myacademy/services/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/main/resources/assignment.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-academy/src/test/java/com/staffs/myacademy/MyAcademyApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mCODbWWjPGxfTN5kvnjj5Hs5uW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8975209f-478d-4251-b4a5-86c0af62b54e" name="Default Changelist" comment="" />
+      <created>1608993987040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608993987040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720951540597">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1720951540597" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1720951134160">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1720951134160" />
+  </component>
+</project>
